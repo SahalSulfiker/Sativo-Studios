@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="bg" cx="20%" cy="10%" r="90%">
+      <stop offset="0%" stop-color="#D4E1FA"/>
+      <stop offset="50%" stop-color="#E8EFFB"/>
+      <stop offset="100%" stop-color="#F4F7FE"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="120" cy="120" r="220" fill="#1A6BFF" opacity="0.14"/>
+  <circle cx="1080" cy="500" r="260" fill="#7DA8FF" opacity="0.18"/>
+  <g transform="translate(420 215)">
+    <text x="0" y="60" font-family="Outfit, sans-serif" font-size="120" font-weight="500" fill="#0A0A0A" letter-spacing="-2">S</text>
+    <polygon points="135,30 195,150 75,150" fill="#1A6BFF"/>
+    <rect x="105" y="125" width="60" height="12" fill="#FFFFFF"/>
+    <text x="210" y="60" font-family="Outfit, sans-serif" font-size="120" font-weight="500" fill="#0A0A0A" letter-spacing="-2">TIVO</text>
+    <text x="0" y="200" font-family="Manrope, sans-serif" font-size="22" font-weight="600" fill="#1A6BFF" letter-spacing="14">STUDIOS</text>
+  </g>
+  <text x="600" y="500" font-family="Outfit, sans-serif" font-size="42" font-weight="400" fill="#52525B" text-anchor="middle">Complete Web &amp; Digital Solutions</text>
+</svg>
